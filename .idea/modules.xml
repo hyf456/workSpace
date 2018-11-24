@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/han-spring-cloud/han-consumer-movie/han-consumer-movie.iml" filepath="$PROJECT_DIR$/han-spring-cloud/han-consumer-movie/han-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/han-spring-cloud/han-discovery-eureka/han-discovery-eureka.iml" filepath="$PROJECT_DIR$/han-spring-cloud/han-discovery-eureka/han-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/han-spring-cloud/han-provider-user/han-provider-user.iml" filepath="$PROJECT_DIR$/han-spring-cloud/han-provider-user/han-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/han-sipmple-consumer-movie/han-sipmple-consumer-movie.iml" filepath="$PROJECT_DIR$/han-sipmple-consumer-movie/han-sipmple-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/han-sipmple-provider-user/han-sipmple-provider-user.iml" filepath="$PROJECT_DIR$/han-sipmple-provider-user/han-sipmple-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/han-spring-cloud/han-spring-cloud.iml" filepath="$PROJECT_DIR$/han-spring-cloud/han-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workSpace.iml" filepath="$PROJECT_DIR$/.idea/workSpace.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/han-sipmple-consumer-movie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/han-sipmple-provider-user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/han-spring-cloud/han-consumer-movie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/han-spring-cloud/han-provider-user" vcs="Git" />
+  </component>
+</project>
